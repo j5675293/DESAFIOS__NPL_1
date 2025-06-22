@@ -1,5 +1,5 @@
 
-[![a](https://www.fi.uba.ar/images/logo-fiuba.png)
+![](https://www.fi.uba.ar/images/logo-fiuba.png)
 # DESAFIOS DE PROCESAMIENTO DE LENGUAJE NATURAL I
 ### Especialización en Inteligencia Artificial
 
